@@ -1,6 +1,5 @@
 import java.util.Random;
 
-
 class Calculator {
 
     Calculator(){
